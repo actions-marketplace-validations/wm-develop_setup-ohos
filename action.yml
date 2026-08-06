@@ -1,6 +1,6 @@
-name: 'Setup HarmonyOS NEXT CLI tools'
+name: 'Setup HarmonyOS tools'
 description: 'Download and setup HarmonyOS command line tools'
-author: 'ErBW_s'
+author: 'ErBW_s, wm-develop'
 branding:
   icon: download-cloud
   color: gray-dark
