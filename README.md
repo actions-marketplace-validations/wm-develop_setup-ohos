@@ -2,10 +2,6 @@
 
 A simple action to download and setup HarmonyOS NEXT (API12+) building environment in GitHub Action
 
-- latest CLI tools version: `6.1.1.280`
-- latest SDK version: `6.1.1.125`
-- latest API: `6.1.1(24)`
-
 > [!IMPORTANT]
 >
 > For macOS and Windows, use `ErBWs/setup-ohos@v2` with CLI tools version later than `6.1.1.280`.
